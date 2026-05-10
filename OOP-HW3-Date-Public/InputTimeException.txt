@@ -1,0 +1,2 @@
+line number=18, input line=j#25/12/5765#25:00:00, Error message = Exception in scanning the time string
+line number=19, input line=j#25/12/5765#12:00, Error message = Exception in scanning the time string

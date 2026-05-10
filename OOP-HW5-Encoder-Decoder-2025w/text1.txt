@@ -1,0 +1,3 @@
+Hi all.
+This is my fifth homework in object oriented course.
+I want my grade to be 100!

@@ -1,0 +1,2 @@
+line number=15, input line=j#25/14/5765#09:00:00, Error message = Exception in scanning the date string
+line number=16, input line=j#10/12#09:00:00, Error message = Exception in scanning the date string

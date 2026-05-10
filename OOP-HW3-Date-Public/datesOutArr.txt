@@ -1,0 +1,6 @@
+Jewish date 25 Adar A 5765, 09:00:00
+Gregorian date 30 Nov. 2020, 10:00:00
+Jewish date 25 Adar A 5765, 00:00:00
+Gregorian date 30 Nov. 2020, 00:00:00
+Jewish date 14 Kislev 5781, 08:00:00
+Gregorian date 01 Dec. 2020, 00:00:00

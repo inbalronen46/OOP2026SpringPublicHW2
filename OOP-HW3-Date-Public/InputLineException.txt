@@ -1,0 +1,9 @@
+line number=1, input line=---good dates, Error message = Not enough parameters in the input line.
+line number=8, input line=---date "x", Error message = Not enough parameters in the input line.
+line number=9, input line=x#25/12/5765#09:00:00, Error message =  The type of the shape should be j(jewish) or g(gregorian) and not x.
+line number=10, input line=--notEnough#, Error message = Not enough parameters in the input line.
+line number=11, input line=j, Error message = Not enough parameters in the input line.
+line number=12, input line=--tooMuch#, Error message = Not enough parameters in the input line.
+line number=13, input line=g#30/11/2020#10:00:00##, Error message = Too many "#" in the input line.
+line number=14, input line=---non-good date, Error message = Not enough parameters in the input line.
+line number=17, input line=---non-good time, Error message = Not enough parameters in the input line.
